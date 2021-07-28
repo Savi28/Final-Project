@@ -1,0 +1,24 @@
+.bag{
+    position: absolute;
+    width: 45px;
+    height: 43px;
+    left: 1065px;
+    top: 74px;
+    }
+
+    .nav_font{position: absolute;
+              width: 80px;
+height: 35px;
+left: 714px;
+top: 83px;
+ 
+font-family: Sanchez;
+font-style: normal;
+font-weight: normal;
+font-size: 27px;
+line-height: 35px;
+/* identical to box height */
+letter-spacing: 0.1em;
+
+color: #000000;
+    }

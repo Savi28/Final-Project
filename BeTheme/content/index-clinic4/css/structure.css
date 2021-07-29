@@ -1490,7 +1490,7 @@ body.minimalist-header.header-below:not(.template-slider) #Header {
 }
 #Top_bar .menu>li>a {
 	display: block;
-	line-height: 60px;
+	/*line-height: 60px;*/
 	padding: 15px 0;
 	position: relative;
 }

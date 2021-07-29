@@ -23,4 +23,23 @@ letter-spacing: 0.1em;
 color: #000000;
     }
 
-    span1{}
+.card1{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr;
+    grid-template-areas: "card1" "card2" "card3";
+    grid-gap: 10px;
+}
+
+  .card2{
+        display:grid;
+        grid-template-columns:1fr 1fr 1fr;
+        grid-template-areas: "card1" "card2" "card3";
+        grid-gap: 10px;
+        }
+
+        .card3{
+            display:grid;
+            grid-template-columns:1fr 1fr 1fr;
+            grid-template-areas: "card1" "card2" "card3";
+            grid-gap: 10px;
+            }

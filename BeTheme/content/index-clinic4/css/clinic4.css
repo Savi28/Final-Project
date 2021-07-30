@@ -1148,7 +1148,7 @@
 	}
 }
 #Header_wrapper, #Intro {
-	background-color: #204030;
+	background-color: white;
 }
 #Subheader {
 	background-color: rgba(247, 247, 247, 1);
@@ -1213,21 +1213,21 @@ h4, h4 a, h4 a:hover, .style-simple .sliding_box .desc_wrapper h4 {
 	color: #FFFFFF;
 }
 h5, h5 a, h5 a:hover {
-	color: #356938;
+	color: white;
 }
 h6, h6 a, h6 a:hover, a.content_link .title {
-	color: #356938;
+	color: white;
 }
 .dropcap, .highlight:not(.highlight_image) {
-	background-color: #2d493a;
+	background-color: white;
 }
 a.button, a.tp-button {
 	background-color: #e0e7e1;
-	color: #2d493a;
+	color: white;
 }
 .button-stroke a.button, .button-stroke a.button .button_icon i, .button-stroke a.tp-button {
 	border-color: #e0e7e1;
-	color: #2d493a;
+	color: white;
 }
 .button-stroke a:hover.button, .button-stroke a:hover.tp-button {
 	background-color: #e0e7e1 !important;
@@ -1288,11 +1288,11 @@ a.mfn-link-6:before {
 	color: #737E86;
 }
 hr.hr_color, .hr_color hr, .hr_dots span {
-	color: #2d493a;
-	background: #2d493a;
+	color: white;
+	background: white;
 }
 .hr_zigzag i {
-	color: #2d493a;
+	color: white;
 }
 .highlight-left:after, .highlight-right:after {
 	background: #0095eb;
@@ -1368,10 +1368,10 @@ a.action_button {
 	color: #2e2e2e;
 }
 #Top_bar .search_wrapper {
-	background: #0095eb;
+	background: White;
 }
 .overlay-menu-toggle {
-	color: #244435 !important;
+	color:white !important;
 	background: transparent;
 }
 #Overlay {
@@ -1582,13 +1582,13 @@ body.table-hover:not(.woocommerce-page) table tr:hover td {
 	background: #89c461;
 }
 .pricing-box .plan-header .price sup.currency, .pricing-box .plan-header .price>span {
-	color: #89c461;
+	color: white;
 }
 .pricing-box .plan-inside ul li .yes {
-	background: #89c461;
+	background: white;
 }
 .pricing-box-box.pricing-box-featured {
-	background: #89c461;
+	background: white;
 }
 input[type="date"], input[type="email"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="url"], select, textarea, .woocommerce .quantity input.qty, .dark input[type="email"], .dark input[type="password"], .dark input[type="tel"], .dark input[type="text"], .dark select, .dark textarea {
 	color: #626262;
@@ -1605,24 +1605,24 @@ input[type="date"], input[type="email"], input[type="number"], input[type="passw
 	color: #8fa891;
 }
 input[type="date"]:focus, input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="url"]:focus, select:focus, textarea:focus {
-	color: #356938;
+	color: white;
 	background-color: rgba(235, 242, 236, 1) !important;
-	border-color: #356938;
+	border-color: white;
 }
 :focus::-webkit-input-placeholder {
-	color: #356938;
+	color: white;
 }
 :focus::-moz-placeholder {
-	color: #356938;
+	color: white;
 }
 .woocommerce span.onsale, .shop_slider .shop_slider_ul li .item_wrapper span.onsale {
-	border-top-color: #89c461 !important;
+	border-top-color: white !important;
 }
 .woocommerce span.onsale i, .shop_slider .shop_slider_ul li .item_wrapper span.onsale i {
 	color: white;
 }
 .woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
-	border-color: #89c461 !important;
+	border-color: white !important;
 }
 @media only screen and (min-width: 768px) {
 	.header-semi #Top_bar:not(.is-sticky) {

@@ -200,7 +200,8 @@
 		content: "-"
 	}
 	.header-simple #Top_bar #menu ul li.hover a {
-		border-bottom: 0
+		border-bottom: 0;
+		background-color:#F8CB56;
 	}
 	.header-simple #Top_bar #menu ul.mfn-megamenu li .menu-toggle {
 		display: none
@@ -546,7 +547,8 @@
 		top: 0
 	}
 	#Header_creative #Top_bar .wpml-languages.enabled:hover a.active {
-		padding-bottom: 11px
+		/*padding-bottom: 11px*/
+		background-color: #F8CB56;
 	}
 	#Header_creative #Top_bar .action_button {
 		display: inline-block;
